@@ -1,4 +1,4 @@
-## Hi there I'm Shiva! 👋
+## Hi there, I'm Shiva! 👋
 
 
  💻 **Bioinformatics | Computational Biology | Genomic Data Science**  
