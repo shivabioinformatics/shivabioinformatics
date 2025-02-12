@@ -3,7 +3,7 @@
 
  💻 **Bioinformatics | Computational Biology | Genomic Data Science**  
 📍 Based in Los Angeles, CA  
-🔬 Passionate about Multi-Omics, Machine learning    
+🔬 Passionate about Multi-Omics, Machine learning, Microbial Ecology    
 
 
 I’ve always been fascinated by biology, and soon after earning my bachelor's, I started as a lab technician at Caltech’s neuroscience department. There, I worked on projects exploring neuronal networks using mice, zebra finches, and flies as model organisms. I honed my skills in DNA cloning, cell culture, and various bench techniques.
